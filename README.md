@@ -8,19 +8,20 @@ December 4, 2023
 
 
 ## Introduction 
-The project was undertaken to explore and analyze California job postings specifically related to data science positions. The primary goal was to gain insights into the characteristics of these job postings, understand the demand for data science roles, and identify trends within the California job market. The research questions guiding this project was: "1. What are the top 5 most common benefits amoung California Data Science Job Postings?, 2. Is it required to have a Masters Degree, is it benefitial based on salary?, 3. What Cities and Companies are offering the Highest Salaries in California and 4. What skills are most commonly desired amoung postings?  The project aimed to test the hypothesis that certain skills, qualifications, or industries dominate the data science job market in the state.
+The project was undertaken to explore and analyze California job postings specifically related to data science positions. The primary goal was to gain insights into the characteristics of these job postings, understand the demand for data science roles, and identify trends within the California job market. The research questions that guided this project were: 
+
+1. What are the top 5 most common benefits amoung California Data Science Job Postings?
+2. Is it required to have a Masters Degree, and is it benefitial based on salary?
+3. What Cities and Companies are offering the Highest Salaries in California? 
+4. What skills and qualiftaiations are most commonly desired?
+
+The project aimed to test the hypothesis that certain skills, qualifications, or industries dominate the data science job market in the state. The findings in this project are personal and helpful to me as I desire to become a Data Scientist after I graduate from Wentworth Institute of Technology in 2025. 
 
 ## Data 
 The datasets used in this project originated from Kaggle. They were comprises a comprehensive collection of job postings related to data science in California acquired on Decmber 17, 2021. The original raw data set of 1342 rows was cleaned and split into three subdata sets "benefits.csv", "qualifications.csv", and "title_location_company_salary.csv" which are attached to this project folder. The datasets includes information on various attributes such as job title, company, location, required skills, qualifications, and industry. The title_location_company_salary.csv which contains the cleaned job titles, companies, locations, and salaries, qualifications.csv which contains the cleaned qualifications given by a binary matrix and is related to the title_location_company_salary.csv file by the index, and benefits.csv which contains the cleaned benefits given by a binary matrix and is related to the title_location_company_salary.csv file by the index. I further cleaned and analysised these sub-datasets individually as well as merged qualifications.csv and title_location_company_salary.csv back together in order to answer my third question.
 
 ## Methods 
-Through the course of this project, I initiated the refinement of the dataset by strategically eliminating irrelevant columns to narrow down the focus on the research question, thereby facilitating a more targeted analysis. Following this, I meticulously identified and removed empty and duplicate rows to uphold the integrity and accuracy of the data. Leveraging the power of the Pandas library, I employed a range of functions, including 'loc' to selectively choose columns of interest. Additionally, the integration of 'pd.merge' and 'pd.csv reader' further enhanced the methodology, allowing for the efficient merging of datasets and streamlined reading of CSV files. I also implemented the Matplotlib and Seaborn libraries to utilize 'plt' for crafting visually informative plots and graphs. Finally, 'describe' and 'display/head()' were used for insightful statistical summaries and initial row exploration. These combined tools played a crucial role in contributing to a comprehensive and well-structured approach to addressing the research question.
-
-## Questions 
-1. What are the top 5 most common benefits amoung California Data Science Job Postings ? 
-2. Is it required to have a Masters Degree, is it benefitial based on salary ? 
-3. What Cities and Companies are offering the Highest Salaries in California? 
-4. What skills are most commonly desired amoung postings? 
+Through the course of this project, I initiated the refinement of the dataset by strategically eliminating irrelevant columns to narrow down the focus on the research question, thereby facilitating a more targeted analysis. Following this, I meticulously identified and removed empty and duplicate rows to uphold the integrity and accuracy of the data. Leveraging the power of the Pandas library, I employed a range of functions, including 'loc' to selectively choose columns of interest. Additionally, the integration of 'pd.merge' and 'pd.csv reader' further enhanced the methodology, allowing for the efficient merging of datasets and streamlined reading of CSV files. I also implemented the Matplotlib and Seaborn libraries to utilize 'plt' for crafting visually informative plots and graphs. I specifically used pie charts as I found them to display the results best as most results are comparasion based. Finally, 'describe' and 'display/head()' were used for insightful statistical summaries and initial row exploration. These combined tools played a crucial role in contributing to a comprehensive and well-structured approach to addressing the research question.
 
 ## Results 
 Top 5 Common Benefits:
