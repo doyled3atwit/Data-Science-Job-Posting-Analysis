@@ -55,7 +55,7 @@ In conclusion, while the study sheds light on several aspects of California Data
 
 ## References 
 
-[Code](https://jupyter.cs.wit.edu/user/doyled3/notebooks/Data_Science_Fundamentals_Final_Project/data_science_job_posting_analysis.ipynb)
+[Code](https://jupyter.cs.wit.edu/user/doyled3/notebooks/Data_Science_Fundamentals_Final_Project/data_science_job_posting_analysis_code_file.ipynb)
 
 [Kaggle](https://www.kaggle.com/)
 
