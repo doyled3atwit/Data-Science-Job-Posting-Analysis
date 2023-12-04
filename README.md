@@ -13,7 +13,7 @@ The project was undertaken to explore and analyze California job postings specif
 1. What are the top 5 most common benefits amoung California Data Science Job Postings?
 2. Is it required to have a Masters Degree, and is it benefitial based on salary?
 3. What Cities and Companies are offering the Highest Salaries in California? 
-4. What skills and qualiftaiations are most commonly desired?
+4. What skills and qualiftaiations are most valuable?
 
 The project aimed to test the hypothesis that certain skills, qualifications, or industries dominate the data science job market in the state. The findings in this project are personal and helpful to me as I desire to become a Data Scientist after I graduate from Wentworth Institute of Technology in 2025. 
 
