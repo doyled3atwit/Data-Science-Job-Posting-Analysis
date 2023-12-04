@@ -3,7 +3,7 @@
 Examining the benefits, necessary qualifications, diverse locations, various companies, and additional insights derived from data extracted from California-based data science job postings in December 2021.
 
 Dakota Doyle 
-December 4, 2023 
+- December 4, 2023 
 
 
 ## Introduction 
