@@ -61,7 +61,7 @@ In conclusion, while the study sheds light on several aspects of California Data
 
 [Data](https://www.kaggle.com/datasets/michaelbryantds/california-salaries-in-data-science)
 
-[Data Extracted From:](https://www.simplyhired.com/search?q=%22data+science%22&l=California&job=XnAN-APSC0myGjJgTwz6gITa6jmIqgBTo-MAkT89bwMpGhVEokycrQ)
+[Data Extracted From](https://www.simplyhired.com/search?q=%22data+science%22&l=California&job=XnAN-APSC0myGjJgTwz6gITa6jmIqgBTo-MAkT89bwMpGhVEokycrQ)
 
 ["Is a master’s degree in data science worth it?" By Meghan Malas](https://fortune.com/education/articles/is-a-masters-degree-in-data-science-worth-it/)
 
