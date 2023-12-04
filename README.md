@@ -65,25 +65,3 @@ In conclusion, while the study sheds light on several aspects of California Data
 
 ["Is a master’s degree in data science worth it?" By Meghan Malas](https://fortune.com/education/articles/is-a-masters-degree-in-data-science-worth-it/)
 
-
-
-
-
-# notes for me to edit readME later : 
-
-# large text 
-## medium text 
-### small text 
-
-## title 
-- bullet indent 1
-  - bullet indent 2 
-
-` in this can not be changed, put code / makes shadow `
-
-```
-shadow
-```
-
-## reference 
-[Reference1](link)
