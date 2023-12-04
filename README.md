@@ -1,52 +1,66 @@
 # Data-Science-Job-Posting-Analysis
-Analyzing benefits, required  qualifications, locations, companies, and more from data taken from California data science job postings in December 2021.
+
+Examining the benefits, necessary qualifications, diverse locations, various companies, and additional insights derived from data extracted from California-based data science job postings in December 2021.
+
+Dakota Doyle 
+December 4, 2023 
 
 
-## readME DRAFT 
-# Introduction	
-Why was the project undertaken? What was the research question, the tested hypothesis or the purpose of the research?	10
+## Introduction 
+The project was undertaken to explore and analyze California job postings specifically related to data science positions. The primary goal was to gain insights into the characteristics of these job postings, understand the demand for data science roles, and identify trends within the California job market. The research questions guiding this project was: "1. What are the top 5 most common benefits amoung California Data Science Job Postings?, 2. Is it required to have a Masters Degree, is it benefitial based on salary?, 3. What Cities and Companies are offering the Highest Salaries in California and 4. What skills are most commonly desired amoung postings?  The project aimed to test the hypothesis that certain skills, qualifications, or industries dominate the data science job market in the state.
 
-This project was undertaken to explore and analyze California job postings specifically related to data science positions. The primary goal was to gain insights into the characteristics of these job postings, understand the demand for data science roles, and identify trends within the California job market. The research questions guiding this project was: "1.What are the top 5 most common benefits amoung California Data Science Job Postings?, 2.Is it required to have a Masters Degree, is it benefitial based on salary?, 3.What Cities and Companies are offering the Highest Salaries in California and 4.What skills are most commonly desired amoung postings?  The project aimed to test the hypothesis that certain skills, qualifications, or industries dominate the data science job market in the state.
+## Data 
+The datasets used in this project originated from Kaggle. They were comprises a comprehensive collection of job postings related to data science in California acquired on Decmber 17, 2021. The original raw data set of 1342 rows was cleaned and split into three subdata sets "benefits.csv", "qualifications.csv", and "title_location_company_salary.csv" which are attached to this project folder. The datasets includes information on various attributes such as job title, company, location, required skills, qualifications, and industry. The title_location_company_salary.csv which contains the cleaned job titles, companies, locations, and salaries, qualifications.csv which contains the cleaned qualifications given by a binary matrix and is related to the title_location_company_salary.csv file by the index, and benefits.csv which contains the cleaned benefits given by a binary matrix and is related to the title_location_company_salary.csv file by the index. I further cleaned and analysised these sub-datasets individually as well as merged qualifications.csv and title_location_company_salary.csv back together in order to answer my third question.
 
-# Selection of Data	
-What is the source of the dataset? Characteristics of data? Any munging, imputation, or feature engineering?	20
+## Methods 
+Through the course of this project, I initiated the refinement of the dataset by strategically eliminating irrelevant columns to narrow down the focus on the research question, thereby facilitating a more targeted analysis. Following this, I meticulously identified and removed empty and duplicate rows to uphold the integrity and accuracy of the data. Leveraging the power of the Pandas library, I employed a range of functions, including 'loc' to selectively choose columns of interest. Additionally, the integration of 'pd.merge' and 'pd.csv reader' further enhanced the methodology, allowing for the efficient merging of datasets and streamlined reading of CSV files. I also implemented the Matplotlib and Seaborn libraries to utilize 'plt' for crafting visually informative plots and graphs. Finally, 'describe' and 'display/head()' were used for insightful statistical summaries and initial row exploration. These combined tools played a crucial role in contributing to a comprehensive and well-structured approach to addressing the research question.
 
-The datasets used in this project originated from Kaggle. They were comprises a comprehensive collection of job postings related to data science in California acquired on Decmber 17, 2021. The original raw data set of 1342 rows was cleaned and split into three subdata sets "benefits.csv", "qualifications.csv", and "title_location_company_salary.csv" which are attached to this project folder. I further cleaned and analysised these sub-datasets individually as well as merged two back together in order to answer my third question. The datasets includes information on various attributes such as job title, company, location, required skills, qualifications, and industry.
-    
-"title_location_company_salary.csv which contains 1288 cleaned job titles, companies, locations, and salaries,
+## Questions 
+1. What are the top 5 most common benefits amoung California Data Science Job Postings ? 
+2. Is it required to have a Masters Degree, is it benefitial based on salary ? 
+3. What Cities and Companies are offering the Highest Salaries in California? 
+4. What skills are most commonly desired amoung postings? 
 
-qualifications.csv which contains the cleaned qualifications given by a binary matrix and is related to the title_location_company_salary.csv file by the index, and
+## Results 
+Top 5 Common Benefits:
+The top 5 most common benefits among California Data Science job postings were identified: Health Insurance, Dental Insurance, 401(k), Paid Time Off, Vision Insurance. These benefits play a crucial role in understanding the comprehensive compensation packages offered in the field.
 
-benefits.csv which contains the cleaned benefits given by a binary matrix and is related to the title_location_company_salary.csv file by the index."
+Masters Degree Requirement and Salary Impact:
+Approximately half of the job postings indicated a preference or requirement for candidates with a Master's degree. The study suggests that having a Master's degree may be beneficial, as those with this qualification tend to have a higher maximum salary. However, it's noted that the mean salary increase is only slightly greater, implying a lower salary ceiling for those without a Master's degree.
 
-* include rows size after my cleaning 
+Cities and Companies Offering Highest Salaries:
+As shown in the pie charts below San Francisco emerged as a city with high-paying Data Science jobs, with Indeed being a prominent platform for such opportunities.
 
-# Methods	
-What materials/tools were used in answering the research question?	20
+Skills Desired in Postings:
+The study identified that a Master's degree, SQL, and C were among the most commonly desired qualifications. Interestingly, communication skills were emphasized more than analytical skills. 
 
-I used numpy, pandas, matplotlib.pyplot, and seaborn. 
+## Discussion 
+The implications of these findings and their significance are critical for both job seekers and employers in the field of Data Science. It is essential to consider how these results align with broader trends and insights from other researchers.
 
-I dropped columns I didn't deciser to use to make the data easier for me to focus on, I dropped empty rows and duplicate rows from the data. 
+Implications and Significance:
+The study's results have practical implications for job seekers, suggesting that pursuing a Master's degree may enhance earning potential. The emphasis on communication skills alongside technical expertise highlights the importance of well-rounded abilities in the field.
 
-I used loc to select columns, plt to make plots and graphs, i used pandas, and i liked using describe and display/head() functions 
+Comparison with Existing Research:
+"Is a master’s degree in data science worth it?" by Meghan Malas emphasizes the surge in demand for data science professionals and the potential for lucrative salaries with a Master's degree. This perspective aligns with the current study's exploration, revealing a remarkable 480% increase in job opportunities for data science professionals since 2016. The significance of pursuing a master's degree in data science is underscored in both pieces, highlighting the potential for graduates to secure lucrative six-figure salaries.Insights from an Amazon business intelligence engineer, who secured a job offer before completing his master's, are featured in both articles, emphasizing the adaptability of a data science master's degree across diverse sectors. A deeper exploration of both studies could offer valuable insights into the evolving landscape of data science education and its impact on career outcomes. By comparing the findings, it becomes evident that the demand for data science professionals and the potential for substantial salaries with a Master's degree are consistent trends, providing a comprehensive perspective on the evolving requirements and opportunities in the dynamic field of data science.
 
-3 Results	
-What answer was found to the research question; what did the study find? Any visualizations?	20
+Perspectives for Future Research:
+Future research avenues could include a comparative analysis of the identified California trends with nationwide data. Additionally, delving into the accuracy of job postings, as suggested by the author, could uncover discrepancies between stated benefits and actual offerings.
 
-1. list top 5 
-2. half jobs want it so i would reccomend it, also they do make more as the max is much greater but the mean is only slightly greater suggesting a lower max out 
-3. san fran and indeed 
-4. R and machine learing, and supprized that communcation skills was more than anaylsis skills 
+Exploration of Job Seeker Preferences:
+Investigating the alignment between job postings' requirements and what actual data scientists value in job offerings could provide a more nuanced understanding of the job market. This could include factors such as workplace culture, growth opportunities, and work-life balance.
 
-# Discussion	
-What might the answer imply and why does it matter? How does it fit in with what other researchers have found? What are the perspectives for future research?	20
+In conclusion, while the study sheds light on several aspects of California Data Science job postings, further research and exploration are warranted to deepen our understanding of the dynamics in this rapidly evolving field.
 
-I would love to research these reqults vs what actual data scienctist are looking for in job postings, I would also like to look at similar data USA wide and compare those results, and I would also like to question the accurance of the job postings because i would guess that the 50 postings not offering health insurance actually do offer it and just lack to mention it in the post. Also i wish python was a column amoung the dataset for qualifcations because i like it a lot better than R personally. 
+## References 
 
-*find other research make an article about masters degree 
+[Code](https://jupyter.cs.wit.edu/user/doyled3/notebooks/Data_Science_Fundamentals_Final_Project/data_science_job_posting_analysis.ipynb)
+[Kaggle](https://www.kaggle.com/)
+[Data](https://www.kaggle.com/datasets/michaelbryantds/california-salaries-in-data-science)
+[Data Extracted From:](https://www.simplyhired.com/search?q=%22data+science%22&l=California&job=XnAN-APSC0myGjJgTwz6gITa6jmIqgBTo-MAkT89bwMpGhVEokycrQ)
+["Is a master’s degree in data science worth it?" By Meghan Malas](https://fortune.com/education/articles/is-a-masters-degree-in-data-science-worth-it/)
 
-# Coding	
-ipynb file with clear comments and datafile.	10
+
+
 
 # notes for me to edit readME later : 
 
