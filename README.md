@@ -79,7 +79,7 @@ December 4, 2023
 ![top_20_highest_salaries_cities_pie_chart_graph](/graphs/top_20_highest_salaries_cities_pie_chart_graph.PNG)
 ![top_20_highest_salaries_companies_pie_chart_graph](/graphs/top_20_highest_salaries_companies_pie_chart_graph.PNG)
 
-#### These visulations were created from this result: 
+#### These visulations were created from this result of the Top 20 Highest Salaries : 
 ![top_20_highest_salaries_results](/graphs/top_20_highest_salaries_results.PNG)
 
 #### Code
