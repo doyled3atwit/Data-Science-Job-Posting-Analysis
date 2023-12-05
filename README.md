@@ -47,13 +47,12 @@ Approximately half of the job postings indicated a preference or requirement for
 ### Data Statistical Description of Jobs with and without required Master's Degree 
 ![describe_no_masters_salary_result](/graphs/describe_no_masters_salary_result.PNG)
 ![describe_req_masters_salary_result](/graphs/describe_req_masters_salary_result.PNG)
-### We see that the mean salaries amoung the two subsets of the data only differ by an $10,000 increase in salary offered amound jobs that do require a Master's Degree
+### We see that the mean salaries amoung the two subsets of the data only differ by an $10,000 increase in salary offered amound jobs that do require a Master's Degree, but I want to note the +$100,000 differnece in max salary for positions requiring a Master's Degree. 
+![mean_salary_masters_vs_no_masters_result](/graphs/mean_salary_masters_vs_no_masters_result.PNG)
 
-![masters_degree_count](/graphs/masters_degree_count.PNG)
-![masters_required_pie_chart_graph](/graphs/masters_required_pie_chart_graph.PNG)
+### Code 
 ![masters_vs_no_masters_code](graphs/masters_vs_no_masters_code.PNG)
 ![counting_masters_degree_code](/graphs/counting_masters_degree_code.PNG)
-![mean_salary_masters_vs_no_masters_result](/graphs/mean_salary_masters_vs_no_masters_result.PNG)
 
 Cities and Companies Offering Highest Salaries:
 As shown in the pie charts below San Francisco emerged as a city with high-paying Data Science jobs, with Indeed being a prominent platform for such opportunities.
