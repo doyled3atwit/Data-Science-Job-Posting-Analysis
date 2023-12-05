@@ -45,28 +45,28 @@ December 4, 2023
 ## Masters Degree Requirement and Salary Impact:
 ### Approximately half of the job postings indicated a preference or requirement for candidates with a Master's degree. The study suggests that having a Master's degree may be beneficial, as those with this qualification tend to have a higher maximum salary. However, it's noted that the mean salary increase is only slightly greater, implying a lower salary ceiling for those without a Master's degree.
 
-##### I didvied the data into two groups, jobs with a Master's Degree required and jobs with no Master's Degree required. 
+#### I didvied the data into two groups, jobs with a Master's Degree required and jobs with no Master's Degree required. 
 ##### Here is the size of each group with 0.0 representing NO Master's Degree required and 1.0 representing Master's Degree required: 
 
 ![masters_degree_count](/graphs/masters_degree_count.PNG)
 
-##### Here is a pie chart representing the precentage of jobs that do and do not require a Master's Degree, while it is close to 50/50 I would conclude from this that applicants with a Master's Degree do have the advantage as they qualifier for all postions while applicants without a Master's Degreee only qualify for less than half. 
+#### Here is a pie chart representing the precentage of jobs that do and do not require a Master's Degree, while it is close to 50/50 I would conclude from this that applicants with a Master's Degree do have the advantage as they qualifier for all postions while applicants without a Master's Degreee only qualify for less than half. 
 
 ![masters_required_pie_chart_graph](/graphs/masters_required_pie_chart_graph.PNG)
 
 
-##### Data Statistical Description of Jobs with and without required Master's Degree 
+#### Data Statistical Description of Jobs with and without required Master's Degree 
 
 ![describe_no_masters_salary_result](/graphs/describe_no_masters_salary_result.PNG)
 
 ![describe_req_masters_salary_result](/graphs/describe_req_masters_salary_result.PNG)
 
-##### We see that the mean salaries amoung the two subsets of the data only differ by an $10,000 increase in salary offered amound jobs that do require a Master's Degree, but I want to note the +$100,000 differnece in max salary for positions requiring a Master's Degree. 
+#### We see that the mean salaries amoung the two subsets of the data only differ by an $10,000 increase in salary offered amound jobs that do require a Master's Degree, but I want to note the +$100,000 differnece in max salary for positions requiring a Master's Degree. 
 
 ![mean_salary_masters_vs_no_masters_result](/graphs/mean_salary_masters_vs_no_masters_result.PNG)
 
 
-##### Code 
+#### Code 
 
 ![masters_vs_no_masters_code](graphs/masters_vs_no_masters_code.PNG)
 
