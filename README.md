@@ -85,31 +85,29 @@ December 4, 2023
 #### Code
 ![top_20_highest_salaries_code](/graphs/top_20_highest_salaries_code.PNG)
 
-
-#### Extra Information 
-#### How much of the data was postings from San Francisco: 
-![extra_location_san_fran_extra_results](/graphs/location_san_fran_extra_results.PNG)
-#### Description of the Location Data: 
-![extra_location_describe](/graphs/location_describe.PNG)
-#### Description of the Salary Data: 
-![extra_salaries_describe](/graphs/salaries_describe.PNG)
-#### Top 10 Most Common Salaries: 
-![extra_top_10_most_common_salaries_result](/graphs/top_10_most_common_salaries_result.PNG)
-
 ## Skills Desired in Postings:
 ### The study identified that a Master's degree, SQL, and C were among the most commonly desired qualifications. Interestingly, communication skills were emphasized more than analytical skills. 
 
-![all_skills_code](/graphs/all_skills_code.PNG)
-![all_skills_top_10_pie_chart_graph](/graphs/all_skills_top_10_pie_chart_graph.PNG)
+#### Top 10 Most Requested Skills / Qualifications: 
 ![all_skills_top_10_results](/graphs/all_skills_top_10_results.PNG)
+![all_skills_top_10_pie_chart_graph](/graphs/all_skills_top_10_pie_chart_graph.PNG)
 
-![common_coding_languages_code](/graphs/common_coding_languages_code.PNG)
-![common_coding_languages_pie_chart_graph](/graphs/common_coding_languages_pie_chart_graph.PNG)
+#### Code 
+![all_skills_code](/graphs/all_skills_code.PNG)
+
+#### Which coding languages is most requested amoung job postings? : SQL! 
 ![common_coding_languages_results](/graphs/common_coding_languages_results.PNG)
+![common_coding_languages_pie_chart_graph](/graphs/common_coding_languages_pie_chart_graph.PNG)
 
-![comparing_select_skills_code](/graphs/comparing_select_skills_code.PNG)
-![comparing_select_skills_pie_chart_graph](/graphs/comparing_select_skills_pie_chart_graph.PNG)
+#### Code
+![common_coding_languages_code](/graphs/common_coding_languages_code.PNG)
+
+#### Amoung there selected skills, which is most often requested? Machine Learning! 
 ![comparing_select_skills_results](/graphs/comparing_select_skills_results.PNG)
+![comparing_select_skills_pie_chart_graph](/graphs/comparing_select_skills_pie_chart_graph.PNG)
+
+#### Code
+![comparing_select_skills_code](/graphs/comparing_select_skills_code.PNG)
 
 
 ## Discussion 
@@ -128,6 +126,16 @@ December 4, 2023
 ### Investigating the alignment between job postings' requirements and what actual data scientists value in job offerings could provide a more nuanced understanding of the job market. This could include factors such as workplace culture, growth opportunities, and work-life balance.
 
 ### In conclusion, while the study sheds light on several aspects of California Data Science job postings, further research and exploration are warranted to deepen our understanding of the dynamics in this rapidly evolving field.
+
+## Extra Information 
+#### How much of the data was postings from San Francisco: 
+![extra_location_san_fran_extra_results](/graphs/location_san_fran_extra_results.PNG)
+#### Description of the Location Data: 
+![extra_location_describe](/graphs/location_describe.PNG)
+#### Description of the Salary Data: 
+![extra_salaries_describe](/graphs/salaries_describe.PNG)
+#### Top 10 Most Common Salaries: 
+![extra_top_10_most_common_salaries_result](/graphs/top_10_most_common_salaries_result.PNG)
 
 ## References 
 
