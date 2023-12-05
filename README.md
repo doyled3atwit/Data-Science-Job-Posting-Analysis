@@ -102,7 +102,7 @@ December 4, 2023
 #### Code
 ![common_coding_languages_code](/graphs/common_coding_languages_code.PNG)
 
-#### Amoung there selected skills, which is most often requested? Machine Learning! 
+#### Amoung these selected skills, which is most often requested? Machine Learning! 
 ![comparing_select_skills_results](/graphs/comparing_select_skills_results.PNG)
 ![comparing_select_skills_pie_chart_graph](/graphs/comparing_select_skills_pie_chart_graph.PNG)
 
