@@ -30,6 +30,7 @@ The top 5 most common benefits among California Data Science job postings were i
 
 ![top 5 benefits result](/graphs/top_5_benefits.PNG)
 ![top 5 benefits bar graph](/graphs/top_5_benefits_graph.PNG)
+![top 5 benefits code](/graphs/top_5_benefits_code.PNG)
 
 
 Masters Degree Requirement and Salary Impact:
