@@ -46,7 +46,7 @@ December 4, 2023
 ### Approximately half of the job postings indicated a preference or requirement for candidates with a Master's degree. The study suggests that having a Master's degree may be beneficial, as those with this qualification tend to have a higher maximum salary. However, it's noted that the mean salary increase is only slightly greater, implying a lower salary ceiling for those without a Master's degree.
 
 #### I didvied the data into two groups, jobs with a Master's Degree required and jobs with no Master's Degree required. 
-##### Here is the size of each group with 0.0 representing NO Master's Degree required and 1.0 representing Master's Degree required: 
+#### Here is the size of each group with 0.0 representing NO Master's Degree required and 1.0 representing Master's Degree required: 
 
 ![masters_degree_count](/graphs/masters_degree_count.PNG)
 
