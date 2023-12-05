@@ -55,6 +55,7 @@ As shown in the pie charts below San Francisco emerged as a city with high-payin
 
 ![extra_location_san_fran_extra_results](/graphs/location_san_fran_extra_results.PNG)
 ![extra_location_describe](/graphs/location_describe.PNG)
+![extra_salaries_describe](/graphs/salaries_describe.PNG)
 
 Skills Desired in Postings:
 The study identified that a Master's degree, SQL, and C were among the most commonly desired qualifications. Interestingly, communication skills were emphasized more than analytical skills. 
