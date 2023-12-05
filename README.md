@@ -39,7 +39,7 @@ Approximately half of the job postings indicated a preference or requirement for
 ![describe_req_masters_salary_result](/graphs/describe_req_masters_salary_result.PNG)
 ![masters_degree_count](/graphs/masters_degree_count.PNG)
 ![masters_required_pie_chart_graph](/graphs/masters_required_pie_chart_graph.PNG)
-![masters_vs_no_masters_code](/graphs/.maters_vs_no_masters_codePNG)
+![masters_vs_no_masters_code](/graphs/.masters_vs_no_masters_codePNG)
 ![counting_masters_degree_code](/graphs/counting_masters_degree_code.PNG)
 ![mean_salary_masters_vs_no_masters_result](/graphs/mean_salary_masters_vs_no_masters_result.PNG)
 
