@@ -78,13 +78,22 @@ December 4, 2023
 
 ![top_20_highest_salaries_cities_pie_chart_graph](/graphs/top_20_highest_salaries_cities_pie_chart_graph.PNG)
 ![top_20_highest_salaries_companies_pie_chart_graph](/graphs/top_20_highest_salaries_companies_pie_chart_graph.PNG)
-![top_20_highest_salaries_code](/graphs/top_20_highest_salaries_code.PNG)
+
+#### These visulations were created from this result: 
 ![top_20_highest_salaries_results](/graphs/top_20_highest_salaries_results.PNG)
 
+#### Code
+![top_20_highest_salaries_code](/graphs/top_20_highest_salaries_code.PNG)
 
+
+#### Extra Information 
+#### How much of the data was postings from San Francisco: 
 ![extra_location_san_fran_extra_results](/graphs/location_san_fran_extra_results.PNG)
+#### Description of the Location Data: 
 ![extra_location_describe](/graphs/location_describe.PNG)
+#### Description of the Salary Data: 
 ![extra_salaries_describe](/graphs/salaries_describe.PNG)
+#### Top 10 Most Common Salaries: 
 ![extra_top_10_most_common_salaries_result](/graphs/top_10_most_common_salaries_result.PNG)
 
 ## Skills Desired in Postings:
