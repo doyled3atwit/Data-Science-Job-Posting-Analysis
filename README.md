@@ -28,6 +28,10 @@ Through the course of this project, I initiated the refinement of the dataset by
 Top 5 Common Benefits:
 The top 5 most common benefits among California Data Science job postings were identified: Health Insurance, Dental Insurance, 401(k), Paid Time Off, Vision Insurance. These benefits play a crucial role in understanding the comprehensive compensation packages offered in the field.
 
+![top 5 benefits result](/graphs/top_5_benefits.PNG)
+![top 5 benefits bar graph](/graphs/top_5_benefits_graph.PNG)
+
+
 Masters Degree Requirement and Salary Impact:
 Approximately half of the job postings indicated a preference or requirement for candidates with a Master's degree. The study suggests that having a Master's degree may be beneficial, as those with this qualification tend to have a higher maximum salary. However, it's noted that the mean salary increase is only slightly greater, implying a lower salary ceiling for those without a Master's degree.
 
