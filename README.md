@@ -35,8 +35,29 @@ The top 5 most common benefits among California Data Science job postings were i
 Masters Degree Requirement and Salary Impact:
 Approximately half of the job postings indicated a preference or requirement for candidates with a Master's degree. The study suggests that having a Master's degree may be beneficial, as those with this qualification tend to have a higher maximum salary. However, it's noted that the mean salary increase is only slightly greater, implying a lower salary ceiling for those without a Master's degree.
 
+![describe_no_masters_salary_result](/graphs/describe_no_masters_salary_result.PNG)
+![describe_req_masters_salary_result](/graphs/describe_req_masters_salary_result.PNG)
+![masters_degree_count](/graphs/masters_degree_count.PNG)
+![masters_required_pie_chart_graph](/graphs/masters_required_pie_chart_graph.PNG)
+![maters_vs_no_masters_code](/graphs/.maters_vs_no_masters_codePNG)
+![counting_masters_degree_code](/graphs/counting_masters_degree_code.PNG)
+![mean_salary_masters_vs_no_masters_result](/graphs/mean_salary_masters_vs_no_masters_result.PNG)
+
 Cities and Companies Offering Highest Salaries:
 As shown in the pie charts below San Francisco emerged as a city with high-paying Data Science jobs, with Indeed being a prominent platform for such opportunities.
+
+![top_20_highest_salaries_cities_pie_chart_graph](/graphs/top_20_highest_salaries_cities_pie_chart_graph.PNG)
+![top_20_highest_salaries_companies_pie_chart_graph](/graphs/top_20_highest_salaries_companies_pie_chart_graph.PNG)
+![top_20_highest_salaries_code](/graphs/top_20_highest_salaries_code.PNG)
+![top_20_highest_salaries_results](/graphs/top_20_highest_salaries_results.PNG)
+
+
+![extra_location_san_fran_extra_results](/graphs/location_san_fran_extra_results.PNG)
+![extra_location_describe](/graphs/location_describe.PNG)
+
+![](/graphs/.PNG)
+
+
 
 Skills Desired in Postings:
 The study identified that a Master's degree, SQL, and C were among the most commonly desired qualifications. Interestingly, communication skills were emphasized more than analytical skills. 
