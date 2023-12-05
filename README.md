@@ -66,7 +66,7 @@ December 4, 2023
 
 ![describe_req_masters_salary_result](/graphs/describe_req_masters_salary_result.PNG)
 
-#### We see that the mean salaries amoung the two subsets of the data only differ by an $10,000 increase in salary offered amound jobs that do require a Master's Degree, but I want to note the +$100,000 differnece in max salary for positions requiring a Master's Degree. 
+#### We see that the mean salaries amoung the two subsets of the data only differ by an $5,932 increase in salary offered amound jobs that do require a Master's Degree, but I want to note the +$110,000 differnece in max salary for positions requiring a Master's Degree. 
 
 ![mean_salary_masters_vs_no_masters_result](/graphs/mean_salary_masters_vs_no_masters_result.PNG)
 
