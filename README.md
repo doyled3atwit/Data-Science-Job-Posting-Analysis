@@ -56,12 +56,24 @@ As shown in the pie charts below San Francisco emerged as a city with high-payin
 ![extra_location_san_fran_extra_results](/graphs/location_san_fran_extra_results.PNG)
 ![extra_location_describe](/graphs/location_describe.PNG)
 
-![](/graphs/.PNG)
-
-
-
 Skills Desired in Postings:
 The study identified that a Master's degree, SQL, and C were among the most commonly desired qualifications. Interestingly, communication skills were emphasized more than analytical skills. 
+
+![all_skills_code](/graphs/all_skills_code.PNG)
+![all_skills_top_10_pie_chart_graph](/graphs/all_skills_top_10_pie_chart_graph.PNG)
+![all_skills_top_10_results](/graphs/all_skills_top_10_results.PNG)
+
+![common_coding_languages_code](/graphs/common_coding_languages_code.PNG)
+![common_coding_languages_pie_chart_graph](/graphs/common_coding_languages_pie_chart_graph.PNG)
+![common_coding_languages_results](/graphs/common_coding_languages_results.PNG)
+
+![comparing_select_skills_code](/graphs/comparing_select_skills_code.PNG)
+![comparing_select_skills_pie_chart_graph](/graphs/comparing_select_skills_pie_chart_graph.PNG)
+![comparing_select_skills_results](/graphs/comparing_select_skills_results.PNG)
+
+
+![](/graphs/.PNG)
+
 
 ## Discussion 
 The implications of these findings and their significance are critical for both job seekers and employers in the field of Data Science. It is essential to consider how these results align with broader trends and insights from other researchers.
