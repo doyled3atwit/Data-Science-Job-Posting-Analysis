@@ -22,7 +22,7 @@ The datasets used in this project originated from Kaggle. They were comprises a 
 
 ## Methods 
 ![imported libaries](/graphs/imports.PNG)
-Through the course of this project, I initiated the refinement of the dataset by strategically eliminating irrelevant columns to narrow down the focus on the research question, thereby facilitating a more targeted analysis. Following this, I meticulously identified and removed empty and duplicate rows to uphold the integrity and accuracy of the data. Leveraging the power of the Pandas library, I employed a range of functions, including 'loc' to selectively choose columns of interest. Additionally, the integration of 'pd.merge' and 'pd.csv reader' further enhanced the methodology, allowing for the efficient merging of datasets and streamlined reading of CSV files. I also implemented the Matplotlib and Seaborn libraries to utilize 'plt' for crafting visually informative plots and graphs. I specifically used pie charts as I found them to display the results best as most results are comparasion based. Finally, 'describe' and 'display/head()' were used for insightful statistical summaries and initial row exploration. These combined tools played a crucial role in contributing to a comprehensive and well-structured approach to addressing the research question.
+Through the course of this project, I initiated the refinement of the dataset by strategically eliminating irrelevant columns to narrow down the focus on the research question, thereby facilitating a more targeted analysis. Following this, I meticulously identified and removed empty and duplicate rows to uphold the integrity and accuracy of the data. Leveraging the power of the Pandas library, I employed a range of functions, including 'loc' to selectively choose columns of interest. Additionally, the integration of ['pd.merge'](/graphs/merging_QT_preview_and_code.PNG) and 'pd.csv reader' further enhanced the methodology, allowing for the efficient merging of datasets and streamlined reading of CSV files. I also implemented the Matplotlib and Seaborn libraries to utilize 'plt' for crafting visually informative plots and graphs. I specifically used pie charts as I found them to display the results best as most results are comparasion based. Finally, 'describe' and 'display/head()' were used for insightful statistical summaries and initial row exploration. These combined tools played a crucial role in contributing to a comprehensive and well-structured approach to addressing the research question.
 
 ## Results 
 Top 5 Common Benefits:
@@ -70,9 +70,6 @@ The study identified that a Master's degree, SQL, and C were among the most comm
 ![comparing_select_skills_code](/graphs/comparing_select_skills_code.PNG)
 ![comparing_select_skills_pie_chart_graph](/graphs/comparing_select_skills_pie_chart_graph.PNG)
 ![comparing_select_skills_results](/graphs/comparing_select_skills_results.PNG)
-
-
-![](/graphs/.PNG)
 
 
 ## Discussion 
