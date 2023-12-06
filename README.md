@@ -13,14 +13,14 @@ December 4, 2023
 
 
 ## Introduction 
-### The project was undertaken to explore and analyze California job postings specifically related to data science positions. The primary goal was to gain insights into the characteristics of these job postings, understand the demand for data science roles, and identify trends within the California job market. The research questions that guided this project were: 
+### This project was undertaken to explore and analyze California job postings specifically related to data science positions. The primary goal was to gain insights into the characteristics of these job postings, and understand the trends within data science roles. The research questions that guided this project were: 
 
 1. What are the top 5 most common benefits amoung California Data Science Job Postings?
 2. Is it required to have a Masters Degree, and is it benefitial based on salary?
 3. What Cities and Companies are offering the Highest Salaries in California? 
 4. What skills and qualiftaiations are most valuable?
 
-### The project aimed to test the hypothesis that certain skills, qualifications, or industries dominate the data science job market in the state. The findings in this project are personal and helpful to me as I desire to become a Data Scientist after I graduate from Wentworth Institute of Technology in 2025. 
+### The project aimed to test the hypothesis that certain skills, qualifications, or locations dominate the data science job market in California. The findings in this project are personal and helpful to me as I desire to become a Data Scientist after I graduate from Wentworth Institute of Technology in 2025. 
 
 ## Data 
 ### The datasets used in this project originated from Kaggle. They were comprises a comprehensive collection of job postings related to data science in California acquired on Decmber 17, 2021. The original raw data set of 1342 rows was cleaned and split into three subdata sets "benefits.csv" [preview data](/graphs/benefits_data_preview.PNG), "qualifications.csv" [preview data](/graphs/qualifications_data_preview.PNG), and "title_location_company_salary.csv" [preview data](/graphs/titlr_salary_company_location_data_preview.PNG) which are attached to this project folder. The datasets includes information on various attributes such as job title, company, location, required skills, qualifications, and industry. The title_location_company_salary.csv which contains the cleaned job titles, companies, locations, and salaries, qualifications.csv which contains the cleaned qualifications given by a binary matrix and is related to the title_location_company_salary.csv file by the index, and benefits.csv which contains the cleaned benefits given by a binary matrix and is related to the title_location_company_salary.csv file by the index. I further cleaned and analysised these sub-datasets individually as well as merged qualifications.csv and title_location_company_salary.csv back together in order to answer my third question.
