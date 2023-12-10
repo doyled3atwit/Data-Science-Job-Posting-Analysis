@@ -1,10 +1,5 @@
 # Data-Science-Job-Posting-Analysis
 
-## Questions before submitting 
-- did i cite my data correctly ?
-- do i have to keep ss of code in readME ?
-- should i write more descriptions ? 
-
 Examining the benefits, necessary qualifications, various companies, locations and additional insights derived from California-based data science job postings. 
 
 Dakota Doyle 
