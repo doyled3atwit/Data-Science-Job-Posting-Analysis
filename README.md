@@ -97,6 +97,8 @@ December 4, 2023
 
 #### Which coding languages is most requested amoung job postings? : SQL! 
 ![common_coding_languages_results](/graphs/common_coding_languages_results.PNG)
+
+
 ![common_coding_languages_pie_chart_graph](/graphs/common_coding_languages_pie_chart_graph.PNG)
 
 #### Code
