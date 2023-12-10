@@ -1,10 +1,10 @@
 # Data-Science-Job-Posting-Analysis
 
-Examining the benefits, necessary qualifications, various companies, locations and additional insights derived from California-based data science job postings. 
-
 Dakota Doyle 
 
 December 4, 2023 
+
+Examining the benefits, necessary qualifications, various companies, locations and additional insights derived from California-based data science job postings. 
 
 
 ## Introduction 
